@@ -289,8 +289,8 @@ __pycache__/
 *.xsd.cs
 
 .idea
-bin
+Mauriced/bin
 # ultrakill's game dll - the game is paid, i dont want to put the code on github
-libs/Assembly-CSharp.dll
-obj
-thunderstore
+Mauriced/libs/Assembly-CSharp.dll
+Mauriced/obj
+Mauriced/thunderstore
